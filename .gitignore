@@ -1,0 +1,4 @@
+db.sqlite3
+.idea/*
+musicsharer/__pycache__/*
+**/__pycache/**
